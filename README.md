@@ -1,2 +1,3 @@
-# goodcode
-This is leetcode clone application
+# LeetCode Clone Project by Varrnit
+
+### Built With React, NextJS, TypeScript, TailwindCSS, Firebase
